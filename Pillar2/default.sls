@@ -1,4 +1,4 @@
 # Default pillar values
 editor: vim
 DISTRO: kinetic
-TEST: hellopenny yes
+TEST: hellopenny no
