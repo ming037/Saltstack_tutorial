@@ -1,2 +1,2 @@
 include:
-  - requirements
+  - PennySalt.requirements
