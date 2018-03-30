@@ -7,5 +7,5 @@ pip_pkg_install: #Install packages from pip
     - pkgs:
 {% for package in packages %}
       - {{ package }} 
-{% endofor %}
+{% endfor %}
 
