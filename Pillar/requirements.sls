@@ -15,6 +15,6 @@ pip_packages: [
   'wsaccel==0.6.2',
   'ujson==1.35',
   'slackclient==1.1.2',
-  'ds4drv
+  'ds4drv'
 ]
 
